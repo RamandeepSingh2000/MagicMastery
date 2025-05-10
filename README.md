@@ -24,9 +24,15 @@ This project was created as a small college project with 2 other collegues using
 ## 📸 Screenshots
 
 ![equipment](https://github.com/user-attachments/assets/80a7c780-4a91-4297-94f2-ca2faf44bd81)
+
 ![skill-selection](https://github.com/user-attachments/assets/e20880ed-70a2-4ca3-b831-a89aeda49e11)
+
 ![godmode](https://github.com/user-attachments/assets/e3f52789-8d18-4730-b08c-eb6eda094763)
 
 ## ▶️ Gameplay Video
 
 Watch a short gameplay demo on YouTube: [Watch Here](https://youtu.be/3Ckhkj1HJ_s)
+
+## 🌐 Play the Game Online
+
+Try the WebGL version on itch.io: [Play on itch.io](https://ramandeep-singh.itch.io/magic-mastery)
