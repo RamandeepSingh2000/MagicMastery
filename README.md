@@ -1,4 +1,4 @@
-# Rogue-Like Adventure Game
+# Magic Mastery
 
 A simple rogue-like adventure game built in Unity.
 
